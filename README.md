@@ -49,8 +49,7 @@ To run this project, ensure you have the following installed:
     git lfs install
    ```
 
-
-   ## 🏃 Usage
+## 🏃 Usage
 
   ### Run the Backend:
   Start the backend logic by executing:
