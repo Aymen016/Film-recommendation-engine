@@ -81,7 +81,15 @@ Contributions are welcome! Please follow these steps:
 
    ```bash
    git checkout -b feature-name
-  ```
+   ```
+3. ✍️ Commit your changes:
 
-
+   ```bash
+   git commit -m "Add feature-name"
+   ```
+4. 🚀 Push to the branch:
+   ```bash
+`   git push origin feature-name
+   ```
+5. 🛠️ Create a pull request.
 
