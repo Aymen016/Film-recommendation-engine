@@ -2,11 +2,15 @@
 
 A machine learning-powered system for recommending movies based on user preferences and data analysis. This repository includes both a backend recommendation engine and a frontend interface for user interaction.
 
+---
+
 ## ✨ Features
 
 - 🔮 **Recommendation Engine**: Uses machine learning models to provide personalized movie recommendations.
 - 🖥️ **Streamlit Application**: A user-friendly interface for interacting with the recommendation system.
 - 🌐 **Frontend**: Includes the web-based frontend to provide a better user experience.
+
+---
 
 ## 📂 Project Structure
 
@@ -27,6 +31,8 @@ To run this project, ensure you have the following installed:
 - 🐍 **Python 3.8+**
 - 🧰 **Streamlit**
 - 📦 **Required Python libraries** (listed in `requirements.txt`)
+
+---
 
 ## 🚀 Installation
 
@@ -67,10 +73,14 @@ Launch the Streamlit interface:
 ### Access the Frontend:
 Use the files in the `frontend/` folder to set up and serve the web-based frontend.
 
+---
+
 ## 📊 Dataset
 
 - 📁 The dataset (`dataset.csv`) is used for building movie recommendations.
 - 🗂️ `movies_list.pkl` contains a preprocessed list of movies for faster recommendations.
+
+---
 
 ## 🤝 Contributing
 
@@ -92,4 +102,15 @@ Contributions are welcome! Please follow these steps:
    git push origin feature-name
    ```
 5. 🛠️ Create a pull request.
+   
+---
+
+## 👨‍💻 About the Author
+
+**Aymen Baig**  
+A passionate developer and aspiring Data Scientist specializing in Machine Learning and Natural Language Processing. Experienced in building lightweight and efficient chatbot systems for small businesses. Always open to collaborations and learning new technologies.
+
+- **GitHub**: [Aymen Baig](https://github.com/Aymen016/)
+- **LinkedIn**: [Aymen Baig](https://www.linkedin.com/in/aymen-baig-700a06284/)
+
 
