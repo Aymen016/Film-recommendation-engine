@@ -1,6 +1,9 @@
 # 🎥 Movie Recommender System
 
 A machine learning-powered system for recommending movies based on user preferences and data analysis. This repository includes both a backend recommendation engine and a frontend interface for user interaction.
+<br>
+
+![Untitled design (1)](https://github.com/user-attachments/assets/5053e7f4-f5f4-4284-8731-78b42c2f7ca4)
 
 ---
 
